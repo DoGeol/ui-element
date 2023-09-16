@@ -15,9 +15,15 @@
 - react: v18.2.0
 
 ```bash
+npm install
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+```
+
+## 설치 라이브러리
+```bash
+npm i react-hook-form dayjs
+```
+```bash
+npm i --D cross-env autoprefixer
 ```
