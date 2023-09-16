@@ -27,3 +27,15 @@ npm i react-hook-form dayjs
 ```bash
 npm i --D cross-env autoprefixer
 ```
+
+### 라이브러리 상세 설명
+1. cross-env
+2. autoprefixer  
+    css vender prefix를 자동으로 추가해주는 라이브러리  
+    package.json에 browserslist를 추가하여 사용
+    ```text
+    "browserslist": [
+        "> 1%", // 전세게 점유율 1% 이상인 브라우저 
+        "last 2 versions" // 해당하는 브라우저의 마지막 두개의 버전 까지는 지원하겠다는 옵션
+    ]
+    ```
