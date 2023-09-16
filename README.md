@@ -25,7 +25,7 @@ npm run dev
 npm i react-hook-form dayjs
 ```
 ```bash
-npm i --D cross-env autoprefixer
+npm i --D cross-env autoprefixer prettier eslint-config-prettier eslint-plugin-react
 ```
 
 ### 라이브러리 상세 설명
